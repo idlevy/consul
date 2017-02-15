@@ -2,7 +2,7 @@
   "version": "1.0",
   "repos" : [{
     "name" : "sample_configuration",
-    "url" : "https://github.com/ryanbreen/git2consul_data.git",
+    "url" : "https://github.com/idlevy/consul.git",
     "branches" : ["dev"],
     "hooks": [{
       "type" : "polling",
