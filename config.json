@@ -3,7 +3,7 @@
   "repos" : [{
     "name" : "sample_configuration",
     "url" : "https://github.com/idlevy/consul.git",
-    "branches" : ["dev"],
+    "branches" : ["master"],
     "hooks": [{
       "type" : "polling",
       "interval" : "1"
