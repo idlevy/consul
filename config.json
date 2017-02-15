@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "repos" : [{
-    "name" : "sample_configuration",
+    "name" : "consul",
     "url" : "https://github.com/idlevy/consul.git",
     "branches" : ["master"],
     "hooks": [{
